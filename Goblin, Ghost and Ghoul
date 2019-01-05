@@ -1,0 +1,8 @@
+This Folder has code implementation of various Supervised Learning Algorithm.
+
+1. Decission Tree
+2. Random Forest
+3. Bagging Classifier
+4. Ada Boosting
+5. Voting
+6. Stacking
